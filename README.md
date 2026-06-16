@@ -9,7 +9,7 @@
 Encontre o instrutor ideal, agende aulas de direção e acompanhe sua jornada até a CNH —
 tudo em um só lugar.
 
-[![Demo](https://img.shields.io/badge/Ver_demo-ao_vivo-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://drive-flex-connect.lovable.app)
+[![Demo](https://img.shields.io/badge/Ver_demo-ao_vivo-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://conduzbrasil.com)
 [![Por R3D3](https://img.shields.io/badge/Desenvolvido_por-R3D3-2563EB?style=for-the-badge)](https://github.com/R3D3-Desenvolvimentos)
 
 </div>
@@ -44,15 +44,22 @@ instrutor gerencia agenda, alunos, finanças e avaliações — com chat em temp
 
 ---
 
-## 🖼️ Conheça
+## 🖼️ Telas
 
 <div align="center">
 
-<img src="./assets/conduz-og.png" alt="Conduz Brasil" width="80%" />
+<img src="./assets/01-landing.png" alt="Landing" width="100%" />
 
-**[👉 Explore a demonstração ao vivo](https://drive-flex-connect.lovable.app)**
+<br/><br/>
 
-<!-- Screenshots das telas internas serão adicionados aqui. -->
+<img src="./assets/02-marketplace.png" alt="Marketplace de instrutores" width="49%" />
+<img src="./assets/03-mapa.png" alt="Mapa de instrutores" width="49%" />
+
+<br/><br/>
+
+<img src="./assets/04-painel.png" alt="Painel do instrutor" width="100%" />
+
+**[👉 Explore a demonstração ao vivo](https://conduzbrasil.com)**
 
 </div>
 
